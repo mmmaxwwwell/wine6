@@ -1,0 +1,3 @@
+# [mmmaxwwwell/wine6](https://github.com/mmmaxwwwell/wine6.git)
+
+This is a base container image I'm using for a few different projects. I want to split this off on its own to try and get some entire projects building on dockerhub. The dockerhub free tier allows up to two hours of build time per container, if you go over its cancelled. Maybe, if I split the containers up into multiple containers, I can get around that 2 hour limitation.
